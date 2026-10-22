@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 <!-- Replace with your logo (recommended: 200x200) -->
 <img src="https://via.placeholder.com/150/6366f1/ffffff?text=Logo" alt="Project Logo" width="130" height="130">
@@ -29,18 +29,20 @@
 
 ## 📑 Table of Contents
 
-- [About](#-about)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
+
+<a id="about"></a>
 
 ## 📌 About
 
@@ -49,6 +51,8 @@ Explain the project in 2–3 sentences. What problem does it solve? Who is it fo
 > 💡 **Tip:** A great README answers *what it is*, *why it exists*, and *how to use it* within the first screen.
 
 ---
+
+<a id="features"></a>
 
 ## 🌟 Features
 
@@ -62,9 +66,11 @@ Explain the project in 2–3 sentences. What problem does it solve? Who is it fo
 
 ---
 
+<a id="tech-stack"></a>
+
 ## 🛠 Tech Stack
 
-<div align="center">
+<div align="center" markdown="1">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -76,6 +82,8 @@ Explain the project in 2–3 sentences. What problem does it solve? Who is it fo
 </div>
 
 ---
+
+<a id="getting-started"></a>
 
 ## 🚀 Getting Started
 
@@ -118,6 +126,8 @@ cp .env.example .env
 
 ---
 
+<a id="usage"></a>
+
 ## 💻 Usage
 
 ```js
@@ -127,7 +137,7 @@ const result = something({ option: true });
 console.log(result);
 ```
 
-<details>
+<details markdown="1">
 <summary><b>📂 Click to see more examples</b></summary>
 
 ```js
@@ -137,6 +147,8 @@ console.log(result);
 </details>
 
 ---
+
+<a id="project-structure"></a>
 
 ## 📁 Project Structure
 
@@ -154,6 +166,8 @@ repo/
 
 ---
 
+<a id="roadmap"></a>
+
 ## 🗺 Roadmap
 
 - [x] Initial release
@@ -165,6 +179,8 @@ repo/
 See the [open issues](https://github.com/username/repo/issues) for a full list of proposed features and known bugs.
 
 ---
+
+<a id="contributing"></a>
 
 ## 🤝 Contributing
 
@@ -178,11 +194,15 @@ Contributions make the open-source community amazing. Any contribution you make 
 
 ---
 
+<a id="license"></a>
+
 ## 📄 License
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ---
+
+<a id="contact"></a>
 
 ## 📬 Contact
 
@@ -192,7 +212,7 @@ Project Link: [https://github.com/username/repo](https://github.com/username/rep
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### ⭐ If you like this project, give it a star!
 
